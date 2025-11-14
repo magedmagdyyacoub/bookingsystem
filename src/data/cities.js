@@ -1,0 +1,123 @@
+// src/data/cities.js
+export const citiesData = [
+  {
+    id: 1,
+    name: "Cairo",
+    image: "/images/cairo.jpg",
+    hotels: [
+      { id: 1, name: "Cairo Hotel 1", image: "/images/hotel1.jpg" },
+      { id: 2, name: "Cairo Hotel 2", image: "/images/hotel2.jpg" },
+      { id: 3, name: "Cairo Hotel 3", image: "/images/hotel3.jpg" },
+      { id: 4, name: "Cairo Hotel 4", image: "/images/hotel4.jpg" },
+      { id: 5, name: "Cairo Hotel 5", image: "/images/hotel5.jpg" },
+    ],
+  },
+  {
+    id: 2,
+    name: "Alexandria",
+    image: "/images/alex.jpg",
+    hotels: [
+      { id: 6, name: "Alex Hotel 1", image: "/images/hotel1.jpg" },
+      { id: 7, name: "Alex Hotel 2", image: "/images/hotel2.jpg" },
+      { id: 8, name: "Alex Hotel 3", image: "/images/hotel3.jpg" },
+      { id: 9, name: "Alex Hotel 4", image: "/images/hotel4.jpg" },
+      { id: 10, name: "Alex Hotel 5", image: "/images/hotel5.jpg" },
+    ],
+  },
+  {
+    id: 3,
+    name: "Giza",
+    image: "/images/giza.jpg",
+    hotels: [
+      { id: 11, name: "Giza Hotel 1", image: "/images/hotel1.jpg" },
+      { id: 12, name: "Giza Hotel 2", image: "/images/hotel2.jpg" },
+      { id: 13, name: "Giza Hotel 3", image: "/images/hotel3.jpg" },
+      { id: 14, name: "Giza Hotel 4", image: "/images/hotel4.jpg" },
+      { id: 15, name: "Giza Hotel 5", image: "/images/hotel5.jpg" },
+    ],
+  },
+  {
+    id: 4,
+    name: "Sharm El Sheikh",
+    image: "/images/sharm.jpg",
+    hotels: [
+      { id: 16, name: "Sharm Hotel 1", image: "/images/hotel1.jpg" },
+      { id: 17, name: "Sharm Hotel 2", image: "/images/hotel2.jpg" },
+      { id: 18, name: "Sharm Hotel 3", image: "/images/hotel3.jpg" },
+      { id: 19, name: "Sharm Hotel 4", image: "/images/hotel4.jpg" },
+      { id: 20, name: "Sharm Hotel 5", image: "/images/hotel5.jpg" },
+    ],
+  },
+  {
+    id: 5,
+    name: "Luxor",
+    image: "/images/luxor.jpg",
+    hotels: [
+      { id: 21, name: "Luxor Hotel 1", image: "/images/hotel1.jpg" },
+      { id: 22, name: "Luxor Hotel 2", image: "/images/hotel2.jpg" },
+      { id: 23, name: "Luxor Hotel 3", image: "/images/hotel3.jpg" },
+      { id: 24, name: "Luxor Hotel 4", image: "/images/hotel4.jpg" },
+      { id: 25, name: "Luxor Hotel 5", image: "/images/hotel5.jpg" },
+    ],
+  },
+  {
+    id: 6,
+    name: "Aswan",
+    image: "/images/aswan.jpg",
+    hotels: [
+      { id: 26, name: "Aswan Hotel 1", image: "/images/hotel1.jpg" },
+      { id: 27, name: "Aswan Hotel 2", image: "/images/hotel2.jpg" },
+      { id: 28, name: "Aswan Hotel 3", image: "/images/hotel3.jpg" },
+      { id: 29, name: "Aswan Hotel 4", image: "/images/hotel4.jpg" },
+      { id: 30, name: "Aswan Hotel 5", image: "/images/hotel5.jpg" },
+    ],
+  },
+  {
+    id: 7,
+    name: "Hurghada",
+    image: "/images/hurghada.jpg",
+    hotels: [
+      { id: 31, name: "Hurghada Hotel 1", image: "/images/hotel1.jpg" },
+      { id: 32, name: "Hurghada Hotel 2", image: "/images/hotel2.jpg" },
+      { id: 33, name: "Hurghada Hotel 3", image: "/images/hotel3.jpg" },
+      { id: 34, name: "Hurghada Hotel 4", image: "/images/hotel4.jpg" },
+      { id: 35, name: "Hurghada Hotel 5", image: "/images/hotel5.jpg" },
+    ],
+  },
+  {
+    id: 8,
+    name: "Marsa Matrouh",
+    image: "/images/marsa.jpg",
+    hotels: [
+      { id: 36, name: "Marsa Hotel 1", image: "/images/hotel3.jpg" },
+      { id: 37, name: "Marsa Hotel 2", image: "/images/hotel1.jpg" },
+      { id: 38, name: "Marsa Hotel 3", image: "/images/hotel2.jpg" },
+      { id: 39, name: "Marsa Hotel 4", image: "/images/hotel4.jpg" },
+      { id: 40, name: "Marsa Hotel 5", image: "/images/hotel5.jpg" },
+    ],
+  },
+  {
+    id: 9,
+    name: "Dahab",
+    image: "/images/dahab.jpg",
+    hotels: [
+      { id: 41, name: "Dahab Hotel 1", image: "/images/hotel1.jpg" },
+      { id: 42, name: "Dahab Hotel 2", image: "/images/hotel2.jpg" },
+      { id: 43, name: "Dahab Hotel 3", image: "/images/hotel3.jpg" },
+      { id: 44, name: "Dahab Hotel 4", image: "/images/hotel4.jpg" },
+      { id: 45, name: "Dahab Hotel 5", image: "/images/hotel5.jpg" },
+    ],
+  },
+  {
+    id: 10,
+    name: "Fayoum",
+    image: "/images/fayoum.jpg",
+    hotels: [
+      { id: 46, name: "Fayoum Hotel 1", image: "/images/hotel4.jpg" },
+      { id: 47, name: "Fayoum Hotel 2", image: "/images/hotel1.jpg" },
+      { id: 48, name: "Fayoum Hotel 3", image: "/images/hotel2.jpg" },
+      { id: 49, name: "Fayoum Hotel 4", image: "/images/hotel3.jpg" },
+      { id: 50, name: "Fayoum Hotel 5", image: "/images/hotel5.jpg" },
+    ],
+  },
+];

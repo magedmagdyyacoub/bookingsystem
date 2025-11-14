@@ -1,0 +1,20 @@
+/* Social icons hover */
+.social-link {
+  font-size: 1.5rem;
+  transition: transform 0.2s, color 0.2s;
+}
+.social-link:hover {
+  transform: scale(1.2);
+  color: #0d6efd;
+}
+
+/* Footer quick links hover */
+.footer-link {
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s;
+}
+.footer-link:hover {
+  color: #0d6efd;
+}
